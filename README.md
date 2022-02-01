@@ -1,16 +1,16 @@
-### Hi there 👋
+### :blossom: Hello! :blossom:
 
-<!--
-**maisa-ed/maisa-ed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile.
 
-Here are some ideas to get you started:
+:pushpin: My name is Maisa, I'm currently working as a front-end developer :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:pushpin: I'm new to technology area
+
+:pushpin: Basic/Intermediary knowledge: HTML5, CSS, JavaScript...
+
+:books: Learning TypeScript, ReactJS, NodeJS... (those mentioned above too)
+
+:iphone:My social networks
+
+<a href="https://instagram.com/maisa_ed" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/maisa-eduarda-almeida-32700a1b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
