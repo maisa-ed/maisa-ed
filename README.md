@@ -4,7 +4,7 @@ Welcome to my Github profile.
 
 :pushpin: My name is Maisa, I'm currently working as a front-end developer :computer:
 
-:pushpin: I'm new to technology area
+:pushpin: I'm beginner
 
 :pushpin: Basic/Intermediary knowledge: HTML5, CSS, JavaScript...
 
