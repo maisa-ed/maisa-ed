@@ -6,7 +6,7 @@ Welcome to my Github profile.
 
 :pushpin: I'm beginner
 
-:pushpin: Basic/Intermediary knowledge: HTML5, CSS, JavaScript...
+:pushpin: Basic/Intermediary knowledge: HTML5, CSS, JavaScript, ReactJS...
 
 :books: Learning TypeScript, ReactJS, NodeJS... (those mentioned above too)
 
