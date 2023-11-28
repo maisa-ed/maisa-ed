@@ -9,7 +9,7 @@ Me chamo Maisa Eduarda e tenho 21 anos. Sou FrontEnd Developer e UX/UI Designer,
 
   <br/><h3>Sobre mim</h3>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções.
 - 💼 Trabalhei como **DESENVOLVEDORA DE SOFTWARE** na <a href="https://www.brbitsistemas.com.br/">BR Bit Sistemas</a>.
 - 🎓 Cursando **ANÁLISE E DESENVOLVIMENTO DE SISTEMAS** - 4ª fase da faculdade.
 - 📚 Já trabalhei com elas, mas estou estudando e aprendendo mais: **![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255) ...**
@@ -25,6 +25,7 @@ Me chamo Maisa Eduarda e tenho 21 anos. Sou FrontEnd Developer e UX/UI Designer,
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/next.js-333333?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 **Utilidades**
 
