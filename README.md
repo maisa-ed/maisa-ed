@@ -26,6 +26,7 @@ Me chamo Maisa Eduarda e tenho 22 anos. Sou FrontEnd Developer e UX/UI Designer,
 ![NextJS](https://img.shields.io/badge/next.js-333333?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 **Utilidades**
 
