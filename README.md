@@ -1,4 +1,4 @@
-### :blossom: Olá!! Seja bem-vindo(a) :blossom:
+### 🌼 Olá!! Seja bem-vindo(a) 🌼
 
 Me chamo Maisa Eduarda e tenho 22 anos. Sou FrontEnd Developer e UX/UI Designer, atuando na área desde 2022. 
  <br/> 
