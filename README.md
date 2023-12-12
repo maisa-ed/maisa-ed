@@ -1,6 +1,6 @@
 ### 🌼 Olá!! Seja bem-vindo(a) 🌼
 
-Me chamo Maisa Eduarda e tenho 22 anos. Sou FrontEnd Developer e UX/UI Designer, atuando na área desde 2022. 
+Me chamo Maisa Eduarda e tenho 22 anos. Sou FrontEnd Developer e UX/UI Designer, atuando na área desde janeiro de 2022. 
  <br/> 
  <br/> Sou apaixonada em desenvolver toda a parte de estética do site, assim como toda a funcionalidade. Adoro trabalhar com o Figma (é quase minha terapia) junto da minha companheira de todos os dias: O café! ☕
   <br/> 
